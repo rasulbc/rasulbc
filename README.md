@@ -39,7 +39,7 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ![](https://img.shields.io/badge/Python-informational?style=social&logo=Python)
 ![](https://img.shields.io/badge/C++-informational?style=social&logo=C)
 
- 📊 Tools
+⚒️ Tools
  
  
 ![](https://img.shields.io/badge/PostMan-informational?style=social&logo=PostMan&color=black)
