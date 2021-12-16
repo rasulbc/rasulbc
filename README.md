@@ -16,24 +16,33 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ## &#x1f4c8; GitHub Stats
 
 <br>
+<a href="https://github.com/rasulbc">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rasulbc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rasul's GitHub Stats" />
+</a>
+
+<br>
 
 <a href="https://github.com/rasulbc">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasulbc&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/rasulbc">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rasulbc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
 
 <br>
 <br>
 
 ## 💼 Skills
 
+
+## 👨‍💻 Coding
+
 ![](https://img.shields.io/badge/Flutter-Coding-informational?style=social&logo=flutter)
 ![](https://img.shields.io/badge/Dart-Coding-informational?style=social&logo=dart)
+![](https://img.shields.io/badge/Java-Coding-informational?style=social&logo=dart)
+![](https://img.shields.io/badge/Python-Coding-informational?style=social&logo=dart)
+![](https://img.shields.io/badge/C++-Coding-informational?style=social&logo=dart)
 
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+##✏ Design
+![](https://img.shields.io/badge/AdobeXD-Design-informational?style=flat&logo=AdobeXD&color=white)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
