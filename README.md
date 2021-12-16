@@ -44,19 +44,13 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ## 📊 Analytics
 ![](https://img.shields.io/badge/GA4-Analytics-informational?style=flat&logo=GoogleAnalytics&color=blue)
 ![](https://img.shields.io/badge/GTM-Analytics-informational?style=flat&logo=GoogleTagManager&color=blue)
-![](https://img.shields.io/badge/Yandex Metrica-Analytics-informational?style=flat&logo=YandexMetrica&color=blue)
+![](https://img.shields.io/badge/YandexMetrika-Analytics-informational?style=flat&color=blue)
 
 ## ✏ Design
 ![](https://img.shields.io/badge/Figma-Design-informational?style=flat&logo=Figma&color=white)
 ![](https://img.shields.io/badge/AdobeXD-Design-informational?style=flat&logo=AdobeXD&color=white)
 ![](https://img.shields.io/badge/Canva-Design-informational?style=flat&logo=Canva&color=white)
 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
 
