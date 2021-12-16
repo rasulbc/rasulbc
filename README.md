@@ -39,11 +39,12 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ![](https://img.shields.io/badge/Python-informational?style=social&logo=Python)
 ![](https://img.shields.io/badge/C++-informational?style=social&logo=C)
 
- 📊 Analytics
+ 📊 Tools
  
-![](https://img.shields.io/badge/GA4-informational?style=flat&logo=GoogleAnalytics&color=blue)
-![](https://img.shields.io/badge/GTM-informational?style=flat&logo=GoogleTagManager&color=blue)
-![](https://img.shields.io/badge/YandexMetrika-informational?style=flat&color=blue)
+ 
+![](https://img.shields.io/badge/PostMan-informational?style=social&logo=PostMan&color=black)
+![](https://img.shields.io/badge/VSCode-informational?style=social&logo=VisualStudio&color=black)
+![](https://img.shields.io/badge/AndroidStudio-informational?style=social&logo=AndroidStudio&color=black)
 
  ✏ Design
  
@@ -51,6 +52,12 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=white)
 ![](https://img.shields.io/badge/Canva-informational?style=flat&logo=Canva&color=white)
 ![](https://img.shields.io/badge/Material-informational?style=flat&logo=MaterialDesign&color=white)
+
+ 📊 Analytics
+ 
+![](https://img.shields.io/badge/GA4-informational?style=flat&logo=GoogleAnalytics&color=white)
+![](https://img.shields.io/badge/GTM-informational?style=flat&logo=GoogleTagManager&color=white)
+![](https://img.shields.io/badge/YandexMetrika-informational?style=flat&color=white)
 
 
 </details>
