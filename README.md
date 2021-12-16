@@ -41,7 +41,7 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ![](https://img.shields.io/badge/Python-Coding-informational?style=social&logo=dart)
 ![](https://img.shields.io/badge/C++-Coding-informational?style=social&logo=dart)
 
-##✏ Design
+## ✏ Design
 ![](https://img.shields.io/badge/AdobeXD-Design-informational?style=flat&logo=AdobeXD&color=white)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
