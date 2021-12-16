@@ -33,23 +33,24 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 
 👨‍💻 Coding
 
-![](https://img.shields.io/badge/Flutter-Coding-informational?style=social&logo=flutter)
-![](https://img.shields.io/badge/Dart-Coding-informational?style=social&logo=dart)
-![](https://img.shields.io/badge/Java-Coding-informational?style=social&logo=dart)
-![](https://img.shields.io/badge/Python-Coding-informational?style=social&logo=dart)
-![](https://img.shields.io/badge/C++-Coding-informational?style=social&logo=dart)
+![](https://img.shields.io/badge/Flutter-informational?style=social&logo=flutter)
+![](https://img.shields.io/badge/Dart-informational?style=social&logo=dart)
+![](https://img.shields.io/badge/Java-informational?style=social&logo=Java)
+![](https://img.shields.io/badge/Python-informational?style=social&logo=Python)
+![](https://img.shields.io/badge/C++-informational?style=social&logo=C)
 
  📊 Analytics
  
-![](https://img.shields.io/badge/GA4-Analytics-informational?style=flat&logo=GoogleAnalytics&color=blue)
-![](https://img.shields.io/badge/GTM-Analytics-informational?style=flat&logo=GoogleTagManager&color=blue)
-![](https://img.shields.io/badge/YandexMetrika-Analytics-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/GA4-informational?style=flat&logo=GoogleAnalytics&color=blue)
+![](https://img.shields.io/badge/GTM-informational?style=flat&logo=GoogleTagManager&color=blue)
+![](https://img.shields.io/badge/YandexMetrika-informational?style=flat&color=blue)
 
  ✏ Design
  
-![](https://img.shields.io/badge/Figma-Design-informational?style=flat&logo=Figma&color=white)
-![](https://img.shields.io/badge/AdobeXD-Design-informational?style=flat&logo=AdobeXD&color=white)
-![](https://img.shields.io/badge/Canva-Design-informational?style=flat&logo=Canva&color=white)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=white)
+![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=white)
+![](https://img.shields.io/badge/Canva-informational?style=flat&logo=Canva&color=white)
+![](https://img.shields.io/badge/Material-informational?style=flat&logo=Material&color=white)
 
 
 </details>
