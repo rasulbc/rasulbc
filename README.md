@@ -1,16 +1,13 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
-[![Visits Badge](https://badges.pufler.dev/visits/rasulbc/rasulbc)](https:briddgy.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bcrasul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rasulbc/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bcrasul)
 
-Heeeellooo
+# ✋ Heeeellooo
 
 My first name is Rasul , and I am a curious, competitive person which likes to build things; In an optimal way.
 
 
 
-
+<!---
 <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -28,12 +25,13 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 
 
 <br>
+-->
 <br>
 
-## 💼 Skills
+# 💼 Skills
 
 
-## 👨‍💻 Coding
+👨‍💻 Coding
 
 ![](https://img.shields.io/badge/Flutter-Coding-informational?style=social&logo=flutter)
 ![](https://img.shields.io/badge/Dart-Coding-informational?style=social&logo=dart)
@@ -41,12 +39,14 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 ![](https://img.shields.io/badge/Python-Coding-informational?style=social&logo=dart)
 ![](https://img.shields.io/badge/C++-Coding-informational?style=social&logo=dart)
 
-## 📊 Analytics
+ 📊 Analytics
+ 
 ![](https://img.shields.io/badge/GA4-Analytics-informational?style=flat&logo=GoogleAnalytics&color=blue)
 ![](https://img.shields.io/badge/GTM-Analytics-informational?style=flat&logo=GoogleTagManager&color=blue)
 ![](https://img.shields.io/badge/YandexMetrika-Analytics-informational?style=flat&color=blue)
 
-## ✏ Design
+ ✏ Design
+ 
 ![](https://img.shields.io/badge/Figma-Design-informational?style=flat&logo=Figma&color=white)
 ![](https://img.shields.io/badge/AdobeXD-Design-informational?style=flat&logo=AdobeXD&color=white)
 ![](https://img.shields.io/badge/Canva-Design-informational?style=flat&logo=Canva&color=white)
