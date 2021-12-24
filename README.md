@@ -6,7 +6,6 @@
 My first name is Rasul , and I am a curious, competitive person which likes to build things; In an optimal way.
 
 
-
 <!---
 <br>
 
