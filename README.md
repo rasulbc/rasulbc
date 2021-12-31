@@ -6,7 +6,6 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 
 <!---
 <br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
