@@ -25,7 +25,6 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 
 # 💼 Skills
 
-
 👨‍💻 Coding
 
 ![](https://img.shields.io/badge/Flutter-informational?style=social&logo=flutter)
