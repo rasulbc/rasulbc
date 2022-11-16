@@ -1,5 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&color=0D76A8))](https://www.linkedin.com/in/rasulbc/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bcrasul)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black))](https://www.linkedin.com/in/rasulbc/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile?style=flat&logo=twitter&logoColor=white&color=black)]
+(https://twitter.com/bcrasul)
 
 # ✋ Heeeellooo
 My first name is Rasul , and I am a curious, competitive person which likes to build things; In an optimal way.
