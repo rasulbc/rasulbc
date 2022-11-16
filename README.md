@@ -1,8 +1,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black)](https://www.linkedin.com/in/rasulbc/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile?style=flat&logo=twitter&logoColor=white&color=black)](https://twitter.com/bcrasul)
 
-# ✋ Heeeellooo
-My first name is Rasul , and I am a curious, competitive person which likes to build things; In an optimal way.
+Hey✋
+I'm Rasul , a curious, competitive person which likes to build things; In an optimal way.
 
 <!---
 <br>
@@ -24,15 +24,15 @@ My first name is Rasul , and I am a curious, competitive person which likes to b
 <br>
 -->
 
-# 💼 Skills
+<!-- # 💼 Skills -->
 
 👨‍💻 Coding
 
-![](https://img.shields.io/badge/Flutter-informational?style=social&logo=flutter)
+<!-- ![](https://img.shields.io/badge/Flutter-informational?style=social&logo=flutter)
 ![](https://img.shields.io/badge/Dart-informational?style=social&logo=dart)
 ![](https://img.shields.io/badge/Java-informational?style=social&logo=Java)
 ![](https://img.shields.io/badge/Python-informational?style=social&logo=Python)
-![](https://img.shields.io/badge/C++-informational?style=social&logo=C)
+![](https://img.shields.io/badge/C++-informational?style=social&logo=C) -->
 
 <!---
 ⚒️ Tools
