@@ -26,9 +26,8 @@ I'm Rasul , a curious, competitive person which likes to build things; In an opt
 
 <!-- # 💼 Skills -->
 
-👨‍💻 Coding
 
-Using flutter for anything which has UI (apps, webpages, desktop software)
+Using flutter to code anything which has UI (apps, webpages, desktop software)
 
 <!-- ![](https://img.shields.io/badge/Flutter-informational?style=social&logo=flutter)
 ![](https://img.shields.io/badge/Dart-informational?style=social&logo=dart)
